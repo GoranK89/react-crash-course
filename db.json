@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "text": "Study",
+      "day": "15. feb, 2023",
+      "reminder": true,
+      "id": 1
+    }
+  ]
+}
